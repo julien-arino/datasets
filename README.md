@@ -1,5 +1,5 @@
 # datasets
-The datasets in this repository were assembled while I was working on a variety of topics, some serious and work related, others just part of my love for pointless yet rewarding (for me) manipulation of data. Most, but not necessarily all, are used in my blog, [Is it daahtaah or daytaah?](https://julien-arino.github.io/).
+The datasets in this repository were assembled while I was working on a variety of topics, some serious and work related, others just part of my love for pointless yet rewarding (for me) manipulation of data. Most, but not necessarily all, are used in my blog, [Is it daytah or dahtah?](https://julien-arino.github.io/blog/).
 
 Save for the odd case, I post here only datasets I assembled myself and required some transformations of existing openly accessible datasets. As such, I feel confident that I can distribute them under an MIT License. Feel free to let me know if you feel differently, though.
 
